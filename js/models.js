@@ -22,4 +22,9 @@
   /**
    * READ: I can view all the Tasks on my TaskList so that I can see what I need to do next.
    */
+
+
+   window.todos = { // Revealing Module Pattern
+     // publicName: privateName
+   };
 })(window);
