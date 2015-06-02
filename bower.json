@@ -1,0 +1,17 @@
+{
+  "name": "TIY-TodoMVC",
+  "version": "0.0.0",
+  "authors": [
+    "David Rogers <david@theironyard.com>"
+  ],
+  "main": "index.html",
+  "license": "CC0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
